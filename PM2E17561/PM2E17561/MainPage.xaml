@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PM2E17561.MainPage">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Cargar Ubicacion"
+                      Clicked="reload_Clicked"
+                     x:Name="reload"></ToolbarItem>
+    </ContentPage.ToolbarItems>
+
+    <ScrollView>
+
+        <StackLayout>
+
+            <Image Source="uthapp.png" HeightRequest="80"  WidthRequest="80"/>
+
+            <Label Text="Latitud" FontSize="20" />
+            <Entry Placeholder="Latitud" x:Name="txtLatitud" IsReadOnly="True"  />
+
+            <Label Text="Longitud" FontSize="20" />
+            <Entry Placeholder="Longitud" x:Name="txtLongitud" IsReadOnly="True"   />
+
+            <Label Text="Describa la Ubicacion" FontSize="20" />
+            <Editor IsTextPredictionEnabled="false" IsSpellCheckEnabled="false" x:Name="txtdescripLarga" Placeholder="Escriba la ubicacion" MaxLength="190" HeightRequest="100"   />
+
+            <Label Text="Descripcion Corta" FontSize="20" />
+            <Entry Placeholder="Longitud" x:Name="txtdescripCorta"   />
+
+            <Button Text="Salvar Ubicacion" x:Name="btnsalvar" Clicked="btnsalvar_Clicked" />
+            <Button Text="Ubicaciones salvadas" x:Name="btnListado" Clicked="btnListado_Clicked" />
+
+        </StackLayout>
+
+
+    </ScrollView>
+
+    
+</ContentPage>
