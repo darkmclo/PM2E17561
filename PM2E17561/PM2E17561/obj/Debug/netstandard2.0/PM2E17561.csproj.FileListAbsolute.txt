@@ -15,3 +15,4 @@ C:\Programacion Movil 2\Primer Parcial\PM2E17561\PM2E17561\PM2E17561\obj\Debug\n
 C:\Programacion Movil 2\Primer Parcial\PM2E17561\PM2E17561\PM2E17561\obj\Debug\netstandard2.0\PM2E17561.pdb
 C:\Programacion Movil 2\Primer Parcial\PM2E17561\PM2E17561\PM2E17561\obj\Debug\netstandard2.0\Views\Listado.xaml.g.cs
 C:\Programacion Movil 2\Primer Parcial\PM2E17561\PM2E17561\PM2E17561\obj\Debug\netstandard2.0\Views\UpdateOrDelete.xaml.g.cs
+C:\Programacion Movil 2\Primer Parcial\PM2E17561\PM2E17561\PM2E17561\obj\Debug\netstandard2.0\Views\Mapa.xaml.g.cs

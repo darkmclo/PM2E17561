@@ -180,7 +180,7 @@
           "lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll": {}
         }
       },
-      "Xam.Plugin.Geolocator/5.0.0-beta": {
+      "Xam.Plugin.Geolocator/4.5.0.6": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Plugin.Geolocator.dll": {}
@@ -216,6 +216,18 @@
         "build": {
           "buildTransitive/Xamarin.Forms.props": {},
           "buildTransitive/Xamarin.Forms.targets": {}
+        }
+      },
+      "Xamarin.Forms.Maps/5.0.0.2125": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "5.0.0.2125"
+        },
+        "compile": {
+          "lib/netstandard2.0/Xamarin.Forms.Maps.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.Maps.dll": {}
         }
       }
     }
@@ -572,36 +584,30 @@
         "version.txt"
       ]
     },
-    "Xam.Plugin.Geolocator/5.0.0-beta": {
-      "sha512": "0BuJ4HlkjKM4Fc23+u8h0nW8IU1RlviWSPrbRN+RjxeG91m4LeLEWzLRC8aDU7oMnl/U2HWp87a9iAhYx0jIRg==",
+    "Xam.Plugin.Geolocator/4.5.0.6": {
+      "sha512": "Ro7peBDxsDXPc7J7yLx0ekAcXIfVTAXj/rXiBKiTgZ4Lm7KZJIU8PXOCcI4JztzT3MQrL8Rmka48il/ix0pwoA==",
       "type": "package",
-      "path": "xam.plugin.geolocator/5.0.0-beta",
+      "path": "xam.plugin.geolocator/4.5.0.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "lib/monoandroid10.0/Plugin.Geolocator.dll",
-        "lib/monoandroid10.0/Plugin.Geolocator.pdb",
-        "lib/monoandroid10.0/Plugin.Geolocator.xml",
+        "lib/monoandroid71/Plugin.Geolocator.dll",
+        "lib/monoandroid71/Plugin.Geolocator.xml",
         "lib/netstandard1.0/Plugin.Geolocator.dll",
-        "lib/netstandard1.0/Plugin.Geolocator.pdb",
         "lib/netstandard1.0/Plugin.Geolocator.xml",
         "lib/netstandard2.0/Plugin.Geolocator.dll",
-        "lib/netstandard2.0/Plugin.Geolocator.pdb",
         "lib/netstandard2.0/Plugin.Geolocator.xml",
-        "lib/uap10.0.16299/Plugin.Geolocator.dll",
-        "lib/uap10.0.16299/Plugin.Geolocator.pdb",
-        "lib/uap10.0.16299/Plugin.Geolocator.pri",
-        "lib/uap10.0.16299/Plugin.Geolocator.xml",
+        "lib/uap10.0.10240/Plugin.Geolocator.dll",
+        "lib/uap10.0.10240/Plugin.Geolocator.pri",
+        "lib/uap10.0.10240/Plugin.Geolocator.xml",
         "lib/xamarinios10/Plugin.Geolocator.dll",
-        "lib/xamarinios10/Plugin.Geolocator.pdb",
         "lib/xamarinios10/Plugin.Geolocator.xml",
         "lib/xamarinmac20/Plugin.Geolocator.dll",
-        "lib/xamarinmac20/Plugin.Geolocator.pdb",
         "lib/xamarinmac20/Plugin.Geolocator.xml",
         "lib/xamarintvos10/Plugin.Geolocator.dll",
-        "lib/xamarintvos10/Plugin.Geolocator.pdb",
         "lib/xamarintvos10/Plugin.Geolocator.xml",
-        "xam.plugin.geolocator.5.0.0-beta.nupkg.sha512",
+        "readme.txt",
+        "xam.plugin.geolocator.4.5.0.6.nupkg.sha512",
         "xam.plugin.geolocator.nuspec"
       ]
     },
@@ -862,14 +868,49 @@
         "xamarin.forms.5.0.0.2125.nupkg.sha512",
         "xamarin.forms.nuspec"
       ]
+    },
+    "Xamarin.Forms.Maps/5.0.0.2125": {
+      "sha512": "2FDWADipiF8agAqoFNOTHdefJsIO1mHdLe/yI9GxdVtnIUPrs7CR7z48XWMx+1h0/nltTzQEpSksqImg7gZshQ==",
+      "type": "package",
+      "path": "xamarin.forms.maps/5.0.0.2125",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Assets/xamarin_128x128.png",
+        "lib/MonoAndroid10.0/Xamarin.Forms.Maps.Android.dll",
+        "lib/MonoAndroid10.0/Xamarin.Forms.Maps.dll",
+        "lib/MonoAndroid10.0/Xamarin.Forms.Maps.xml",
+        "lib/Xamarin.Mac/Xamarin.Forms.Maps.dll",
+        "lib/Xamarin.Mac/Xamarin.Forms.Maps.macOS.dll",
+        "lib/Xamarin.Mac/Xamarin.Forms.Maps.xml",
+        "lib/Xamarin.iOS10/Xamarin.Forms.Maps.dll",
+        "lib/Xamarin.iOS10/Xamarin.Forms.Maps.iOS.dll",
+        "lib/Xamarin.iOS10/Xamarin.Forms.Maps.xml",
+        "lib/netstandard1.0/Xamarin.Forms.Maps.dll",
+        "lib/netstandard1.0/Xamarin.Forms.Maps.xml",
+        "lib/netstandard2.0/Xamarin.Forms.Maps.dll",
+        "lib/netstandard2.0/Xamarin.Forms.Maps.xml",
+        "lib/tizen40/Xamarin.Forms.Maps.Tizen.dll",
+        "lib/tizen40/Xamarin.Forms.Maps.dll",
+        "lib/tizen40/Xamarin.Forms.Maps.xml",
+        "lib/uap10.0.14393/Xamarin.Forms.Maps.UWP.dll",
+        "lib/uap10.0.14393/Xamarin.Forms.Maps.UWP.pri",
+        "lib/uap10.0.14393/Xamarin.Forms.Maps.dll",
+        "lib/uap10.0.16299/Xamarin.Forms.Maps.UWP.dll",
+        "lib/uap10.0.16299/Xamarin.Forms.Maps.UWP.pri",
+        "lib/uap10.0.16299/Xamarin.Forms.Maps.dll",
+        "xamarin.forms.maps.5.0.0.2125.nupkg.sha512",
+        "xamarin.forms.maps.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
       "NETStandard.Library >= 2.0.3",
-      "Xam.Plugin.Geolocator >= 5.0.0-beta",
+      "Xam.Plugin.Geolocator >= 4.5.0.6",
       "Xamarin.Essentials >= 1.7.0",
       "Xamarin.Forms >= 5.0.0.2125",
+      "Xamarin.Forms.Maps >= 5.0.0.2125",
       "sqlite-net-pcl >= 1.8.116"
     ]
   },
@@ -928,13 +969,17 @@
           },
           "Xam.Plugin.Geolocator": {
             "target": "Package",
-            "version": "[5.0.0-beta, )"
+            "version": "[4.5.0.6, )"
           },
           "Xamarin.Essentials": {
             "target": "Package",
             "version": "[1.7.0, )"
           },
           "Xamarin.Forms": {
+            "target": "Package",
+            "version": "[5.0.0.2125, )"
+          },
+          "Xamarin.Forms.Maps": {
             "target": "Package",
             "version": "[5.0.0.2125, )"
           },
