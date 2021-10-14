@@ -25,7 +25,7 @@
             <Editor IsTextPredictionEnabled="false" IsSpellCheckEnabled="false" x:Name="txtdescripLarga" Placeholder="Escriba la ubicacion" MaxLength="190" HeightRequest="100"   />
 
             <Label Text="Descripcion Corta" FontSize="20" />
-            <Entry Placeholder="Longitud" x:Name="txtdescripCorta"   />
+            <Entry Placeholder="Descripción corta" x:Name="txtdescripCorta"   />
 
             <Button Text="Salvar Ubicacion" x:Name="btnsalvar" Clicked="btnsalvar_Clicked" />
             <Button Text="Ubicaciones salvadas" x:Name="btnListado" Clicked="btnListado_Clicked" />

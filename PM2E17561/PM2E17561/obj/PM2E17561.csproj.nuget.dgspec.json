@@ -1,25 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programacion Movil 2\\Primer Parcial\\PM2E17561\\PM2E17561\\PM2E17561\\PM2E17561.csproj": {}
+    "C:\\projects\\PM2E17561\\PM2E17561\\PM2E17561\\PM2E17561.csproj": {}
   },
   "projects": {
-    "C:\\Programacion Movil 2\\Primer Parcial\\PM2E17561\\PM2E17561\\PM2E17561\\PM2E17561.csproj": {
+    "C:\\projects\\PM2E17561\\PM2E17561\\PM2E17561\\PM2E17561.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programacion Movil 2\\Primer Parcial\\PM2E17561\\PM2E17561\\PM2E17561\\PM2E17561.csproj",
+        "projectUniqueName": "C:\\projects\\PM2E17561\\PM2E17561\\PM2E17561\\PM2E17561.csproj",
         "projectName": "PM2E17561",
-        "projectPath": "C:\\Programacion Movil 2\\Primer Parcial\\PM2E17561\\PM2E17561\\PM2E17561\\PM2E17561.csproj",
-        "packagesPath": "C:\\Users\\MET\\.nuget\\packages\\",
-        "outputPath": "C:\\Programacion Movil 2\\Primer Parcial\\PM2E17561\\PM2E17561\\PM2E17561\\obj\\",
+        "projectPath": "C:\\projects\\PM2E17561\\PM2E17561\\PM2E17561\\PM2E17561.csproj",
+        "packagesPath": "C:\\Users\\Chriss\\.nuget\\packages\\",
+        "outputPath": "C:\\projects\\PM2E17561\\PM2E17561\\PM2E17561\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\MET\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Chriss\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

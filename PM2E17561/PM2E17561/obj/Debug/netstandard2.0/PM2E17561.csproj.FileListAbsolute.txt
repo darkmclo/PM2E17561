@@ -16,3 +16,21 @@ C:\Programacion Movil 2\Primer Parcial\PM2E17561\PM2E17561\PM2E17561\obj\Debug\n
 C:\Programacion Movil 2\Primer Parcial\PM2E17561\PM2E17561\PM2E17561\obj\Debug\netstandard2.0\Views\Listado.xaml.g.cs
 C:\Programacion Movil 2\Primer Parcial\PM2E17561\PM2E17561\PM2E17561\obj\Debug\netstandard2.0\Views\UpdateOrDelete.xaml.g.cs
 C:\Programacion Movil 2\Primer Parcial\PM2E17561\PM2E17561\PM2E17561\obj\Debug\netstandard2.0\Views\Mapa.xaml.g.cs
+C:\projects\PM2E17561\PM2E17561\PM2E17561\obj\Debug\netstandard2.0\PM2E17561.dll
+C:\projects\PM2E17561\PM2E17561\PM2E17561\obj\Debug\netstandard2.0\ref\PM2E17561.dll
+C:\projects\PM2E17561\PM2E17561\PM2E17561\obj\Debug\netstandard2.0\PM2E17561.pdb
+C:\projects\PM2E17561\PM2E17561\PM2E17561\bin\Debug\netstandard2.0\PM2E17561.deps.json
+C:\projects\PM2E17561\PM2E17561\PM2E17561\bin\Debug\netstandard2.0\PM2E17561.dll
+C:\projects\PM2E17561\PM2E17561\PM2E17561\bin\Debug\netstandard2.0\ref\PM2E17561.dll
+C:\projects\PM2E17561\PM2E17561\PM2E17561\bin\Debug\netstandard2.0\PM2E17561.pdb
+C:\projects\PM2E17561\PM2E17561\PM2E17561\obj\Debug\netstandard2.0\PM2E17561.csproj.AssemblyReference.cache
+C:\projects\PM2E17561\PM2E17561\PM2E17561\obj\Debug\netstandard2.0\PM2E17561.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\PM2E17561\PM2E17561\PM2E17561\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\projects\PM2E17561\PM2E17561\PM2E17561\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\projects\PM2E17561\PM2E17561\PM2E17561\obj\Debug\netstandard2.0\Views\Listado.xaml.g.cs
+C:\projects\PM2E17561\PM2E17561\PM2E17561\obj\Debug\netstandard2.0\Views\Mapa.xaml.g.cs
+C:\projects\PM2E17561\PM2E17561\PM2E17561\obj\Debug\netstandard2.0\Views\UpdateOrDelete.xaml.g.cs
+C:\projects\PM2E17561\PM2E17561\PM2E17561\obj\Debug\netstandard2.0\PM2E17561.AssemblyInfoInputs.cache
+C:\projects\PM2E17561\PM2E17561\PM2E17561\obj\Debug\netstandard2.0\PM2E17561.AssemblyInfo.cs
+C:\projects\PM2E17561\PM2E17561\PM2E17561\obj\Debug\netstandard2.0\PM2E17561.csproj.CoreCompileInputs.cache
+C:\projects\PM2E17561\PM2E17561\PM2E17561\obj\Debug\netstandard2.0\XamlC.stamp
